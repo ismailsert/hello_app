@@ -29,3 +29,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+.gitignore
+.idea/.generators
+.idea/.rakeTasks
+.idea/hello_app.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.ruby-version
